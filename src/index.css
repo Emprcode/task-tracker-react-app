@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-  max-width: 66vh;
+  max-width: 80vh;
   margin: 1px auto;
   overflow: auto;
   min-height: 300px;

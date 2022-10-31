@@ -50,7 +50,7 @@ export const AddTask = ({ addTask }) => {
         />
       </div>
 
-      <input type="submit" value="Save Task" className="btn " />
+      <input type="submit" value="Save Task" className="btn btn-block " />
     </form>
   );
 };
