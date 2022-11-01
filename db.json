@@ -2,20 +2,20 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Doctyer",
-      "day": "feb 30",
+      "text": "Doctor appointment",
+      "day": "Nov 30",
       "reminder": true
     },
     {
       "id": 2,
-      "text": "teacher",
-      "day": "feb 50",
+      "text": "work",
+      "day": "Nov 20",
       "reminder": true
     },
     {
       "id": 3,
       "text": "shopping",
-      "day": "jan 30",
+      "day": "sunday",
       "reminder": false
     }
   ]
