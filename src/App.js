@@ -28,7 +28,7 @@ const App = () => {
 
   // AddTask
 
-  const addTask = async (task) => {
+  const addTask = (task) => {
     const id = Math.floor(Math.random() * 1000) + 1;
 
     const newTask = { id, ...task };
